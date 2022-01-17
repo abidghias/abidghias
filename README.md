@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there, Nice to see you👋
 
 <!--
 **abidghias/abidghias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have technical experience and interest in -
+Computer vision
+Natural Language Processing
+Embedded systems
+Robotics
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
