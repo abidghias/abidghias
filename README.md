@@ -3,7 +3,7 @@
 ### I'm working as a Cloud Engineer for Infosys
  
 - 🔭 Contracted with Microsoft to work on Data Bricks, Data Factory, Xflow among others 
-- 🌱 I’m currently in the pursuit of understanding the various architectures in Deep Learning
+- 🌱 I’m in the pursuit of understanding the various architectures in Deep Learning
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am currently mastering Arabic grammar
 
