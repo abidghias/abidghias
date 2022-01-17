@@ -19,5 +19,4 @@ Robotics
 - ⚡ Fun fact: ...
 -->
 
-Languages and Tools:
-arduino bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
