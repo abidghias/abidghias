@@ -3,7 +3,7 @@
 ### I'm currently working as a Sr. Data Analyst for gotcode
  
 - 🌱 I’m in the pursuit of understanding the various architectures in Big Data
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am currently mastering Arabic grammar
 
 ### Connect with me:
