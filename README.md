@@ -1,8 +1,7 @@
 ### Hi there, I'm Abid. Nice to see you👋
 
-### I'm working as a Data Engineer for Infosys
+### I'm currently working as a Sr. Data Analyst for gotcode
  
-- 🔭 Contracted with Microsoft to work on Data Bricks, Data Factory and Xflow among others 
 - 🌱 I’m in the pursuit of understanding the various architectures in Big Data
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am currently mastering Arabic grammar
